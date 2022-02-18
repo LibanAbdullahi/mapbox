@@ -1,2 +1,2 @@
 # mapbox
-mapbox, cloning Google maps
+mapbox, cloning Google maps, little cool map
